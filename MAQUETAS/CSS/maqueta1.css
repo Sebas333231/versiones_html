@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 2;
+}
+#container{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(206, 189, 134);
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    width: 1000px;
+    height: 200px;
+    background-color: aquamarine;
+}
+#enc{
+    position: relative;
+    left: 350px;
+    top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color:rgb(168, 133, 186)
+}
+#nav{
+    width: 1000px;
+    height: 100px;
+    background-color: burlywood;
+}
+#men{
+    position: relative;
+    left: 300px;
+    top:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+#nain{
+    width: 1000px;
+    height: 500px;
+    background-color: cornflowerblue;
+}
+#cue{
+    position: relative;
+    left: 440px;
+    top: 405px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#footer{
+    width: 1000px;
+    height: 70px;
+    background-color: darkcyan;
+}
+#pie{
+    position: relative;
+    left:50px;
+    top: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.dis1{
+    position: relative;
+    color: black;
+    font-size: 25px;
+}
+.Alinear_Flex{
+    display: flex;
+    justify-content: center;
+    top: -15px;
+    left: 420px;
+    position: relative;
+}
+
+

@@ -1,0 +1,22 @@
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+}
+#container{
+    width: 800px;
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.966);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.dis1{
+    color:rgb(241, 241, 241);
+}
+
+.Alinear_Flex{
+    display: flex;
+    justify-content: center;
+}

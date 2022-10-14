@@ -1,0 +1,12 @@
+#container{
+    width: 1300px;
+    height: 800px;
+    background-color: rgba(143, 148, 116, 0.863);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+table{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
